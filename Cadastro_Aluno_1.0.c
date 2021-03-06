@@ -28,6 +28,7 @@ void Menu() {
 
 }
 
+// FUNÇÃO PARA CADASTRAR UM ALUNO
 void Cadastrar_Alunos() {
 
     FILE *arquivo; // CRIAR UMA VARIÁVEL DO TIPO ARQUIVO   
@@ -93,6 +94,7 @@ void Cadastrar_Alunos() {
 
 }
 
+// FUNÇÃO PARA LISTAR OS ALUNOS CADASTRADOS
 void Listar_Alunos() {
     
     FILE *arquivo; // CRIAR UMA VARIÁVEL DO TIPO ARQUIVO
