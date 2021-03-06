@@ -19,6 +19,7 @@ void Limpar_Tela() {
 
 }
 
+// MENU DE OPÇÕES
 void Menu() {
 
     printf("\t 1 - CADASTRAR ALUNOS \n ");
